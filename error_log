@@ -1,0 +1,8 @@
+[01-Dec-2014 17:32:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/graphakc/public_html/index.php on line 27
+[01-Dec-2014 17:32:10] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/graphakc/public_html/index.php on line 27
+[02-Dec-2014 08:48:53] PHP Warning:  fopen(testfile.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/graphakc/public_html/formHandler1.php on line 75
+[02-Dec-2014 08:49:03] PHP Warning:  fopen(testfile.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home1/graphakc/public_html/formHandler1.php on line 75
+[02-Dec-2014 08:50:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'exercise.txt' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home1/graphakc/public_html/formHandler1.php on line 99
+[02-Dec-2014 08:51:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'exercise.txt' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home1/graphakc/public_html/formHandler1.php on line 99
+[02-Dec-2014 08:53:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'exercise.txt' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home1/graphakc/public_html/formHandler1.php on line 134
+[02-Dec-2014 08:54:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'exercise.txt' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home1/graphakc/public_html/formHandler1.php on line 132

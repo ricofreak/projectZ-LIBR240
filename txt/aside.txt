@@ -1,0 +1,18 @@
+                <aside>
+                    <h3>Older Posts</h3>
+                    	<ul>
+                    		<li><a href="minds.php">The Minds of a Library Technolgist</a></li>
+                            <li><a href="managment.php">Philosphy of Managment</a></li>
+                    	</ul>
+                </aside>
+
+      <aside>
+                    <h3>Links</h3>
+                        <span id="link">
+                            <a href="http://www.ala.org/lita/" target="_blank"><img src="images/logoLita.jpeg" alt="Library and Information Technology Association Link" /></a>
+                            <a href="http://www.code4lib.org" target="_blank"><img src="images/logoCode4Lib.jpeg" alt="Code4Lib" /></a>
+                            <a href="http://www.drupal4lib.org" target="_blank"><img src="images/logoDrupal4Lib.png" alt="Drupal4Lib" /></a>
+                            <a href="http://www.eff.org" target="_blank"><img src="images/logoEFF.jpg" alt="Electronic Frontier Foundation" /></a>
+                
+                        </span>
+                </aside>

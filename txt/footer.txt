@@ -1,0 +1,12 @@
+        <div class="footer-container">
+            <footer class="wrapper">
+       			<div class="wrapper">
+  					
+  					 <div class="social"><a href="https://twitter.com/illibrarian"><img src="images/twitter.png"></a></div>
+  					 <div class="social"><a href="https://www.linkedin.com/pub/lucas-gass/23/459/b3"><img src="images/linkedin.png"></a></div>
+  					 <div class="social"><a href="http://www.reddit.com/user/illibrarian/"><img src="images/reddit.png"></a></div>
+  					 <div class="social"><a href="https://twitter.com/illibrarian"><img src="images/rss.png"></a></div>
+ 					 
+ 					
+</div>
+        </div>

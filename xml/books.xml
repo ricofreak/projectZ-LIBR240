@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+<collection>
+  <book>
+    <title>The Accidental Systems Librarian, Second Edition</title>
+    <link></link>
+    <author>Engard, Nicole &amp; Gordon, Rachel Singer</author>
+    <publisher>Information Today, Inc.</publisher>
+    <year>2012</year>
+  </book>
+  <book>
+    <title>Management Basics for Information Professionals, Third Edition </title>
+    <link></link>
+    <author>Evans, Edward G. &amp; Alire, Camila A.</author>
+    <publisher>ALA Neal-Schuman</publisher>
+    <year>2013</year>
+  </book>
+  <book>
+    <title>Complete Internet Privacy: The Quickest Guide to Being Anonymous Online</title>
+    <link>http://www.amazon.com/Complete-Internet-Privacy-Quickest-Anonymous/dp/1492702668/ref=tmm_pap_title_0?ie=UTF8&amp;qid=1413472583&amp;sr=8-11</link>
+    <author>Cox, Craig</author>
+    <publisher>CreateSpace Independent Publishing</publisher>
+    <year>2014</year>
+  </book>
+  <book>
+    <title>Darknet: A Beginner's Guide to Staying Anonymous Online</title>
+    <link>http://www.amazon.com/Darknet-Beginners-Staying-Anonymous-Online/dp/1481931385/ref=tmm_pap_title_0?ie=UTF8&amp;qid=1413472583&amp;sr=8-15</link>
+    <author>Henderson, Lance</author>
+    <publisher>CreateSpace Independent Publishing</publisher>
+    <year>2013</year>
+  </book>
+  <book>
+    <title>Protecting Your Internet Identity: Are You Naked Online?</title>
+    <link>http://www.amazon.com/Protecting-Your-Internet-Identity-Online/dp/1442212209/ref=sr_1_13_bnp_1_pap?ie=UTF8&amp;qid=1413472583&amp;sr=8-13&amp;keywords=online+privacy</link>
+    <author>Claypoole, Ted</author>
+    <publisher>Rowman &amp; Littlefield Publishers</publisher>
+    <year>2012</year>
+  </book>
+  <book>
+    <title>Privacy in the Age of Big Data: Recognizing Threats, Defending Your Rights, and Protecting Your Family</title>
+    <link>http://www.amazon.com/Privacy-Age-Big-Data-Recognizing/dp/1442225459/ref=pd_sim_b_1?ie=UTF8&amp;ßrefRID=0RQK8XS182NBWPMSGB87</link>
+    <author>Payton, Theresa</author>
+    <publisher>Rowman &amp; Littlefield Publishers</publisher>
+    <year>2014</year>
+  </book>
+
+ </collection>
